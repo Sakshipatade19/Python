@@ -1,9 +1,0 @@
-1)Perform Mangodb CURD Operation
-
-1)show dbs
-2)use user
-3)db.user.insertOne({name:"Angela","age":27})
-4)db.user.insertMany([{name:"Angela","age":27},
-                    {name:'Sakshi','age':23},
-                    {name:'Sayali','age':34},
-                    ])
